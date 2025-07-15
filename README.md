@@ -23,8 +23,26 @@ Alternatively fork the esearch project itself: https://github.com/electronart/es
 
 Currently eSearch project ships with partially translated (approx 80%)  Frencn (fr-FR.lang) and German (de-DE.lang) files only.
 
+Other languages in progress will be posted in this repo and the status published below.
 
-| Language Name (EN) | Langauge Name (Native) | Filename | Status (% done) |
+| Language Name (EN) | Language Name (Native) | Filename | Status (% done) |
 | ------------- | ------------- | ------------- | ------------- |
 | English GB | English GB | en-GB.lang | ------------- |
 | Content Cell | Content Cell | Content Cell | ------------- |
+| Content Cell | Content Cell | Content Cell | ------------- |
+| Content Cell | Content Cell | Content Cell | ------------- |
+| Content Cell | Content Cell | Content Cell | ------------- |
+| Content Cell | Content Cell | Content Cell | ------------- |
+| Content Cell | Content Cell | Content Cell | ------------- |
+| Content Cell | Content Cell | Content Cell | ------------- |
+| Content Cell | Content Cell | Content Cell | ------------- |
+| Content Cell | Content Cell | Content Cell | ------------- |
+| Content Cell | Content Cell | Content Cell | ------------- |
+| Content Cell | Content Cell | Content Cell | ------------- |
+| Content Cell | Content Cell | Content Cell | ------------- |
+| Content Cell | Content Cell | Content Cell | ------------- |
+| Content Cell | Content Cell | Content Cell | ------------- |
+| Content Cell | Content Cell | Content Cell | ------------- |
+| Content Cell | Content Cell | Content Cell | ------------- |
+
+
