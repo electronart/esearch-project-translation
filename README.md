@@ -28,23 +28,13 @@ Other languages in progress will be posted in this repo and the status published
 | Language Name (EN) | Language Name (Native) | Filename | Status (% done) |
 | ------------- | ------------- | ------------- | ------------- |
 | Danish | Dansk | da-DK.lang | ------------- |
-| Dutch  | Content Cell | nl-NL.lang | ------------- |
+| Dutch  | Nederlands | nl-NL.lang | ------------- |
 | English GB | English GB | en-GB.lang | ------------- |
 | Italian | Italien | it-IT.lang | ------------- |
-| Polish | Content Cell | po-PO.lang | ------------- |
-| Potuguese | Content Cell | pt-PT.lang | ------------- |
-| Russian | Content Cell | ru-RU.lang | ------------- |
-| Turkish | Content Cell | tr-TR.lang | ------------- |
-| Uckrainian | Content Cell | uk-UA.lang | ------------- |
-| Content Cell | Content Cell | Content Cell | ------------- |
-| Content Cell | Content Cell | Content Cell | ------------- |
-| Content Cell | Content Cell | Content Cell | ------------- |
-| Content Cell | Content Cell | Content Cell | ------------- |
-| Content Cell | Content Cell | Content Cell | ------------- |
-| Content Cell | Content Cell | Content Cell | ------------- |
-| Content Cell | Content Cell | Content Cell | ------------- |
-| Content Cell | Content Cell | Content Cell | ------------- |
-| Content Cell | Content Cell | Content Cell | ------------- |
-| Content Cell | Content Cell | Content Cell | ------------- |
+| Polish | Polski | po-PO.lang | ------------- |
+| Portuguese | Português | pt-PT.lang | ------------- |
+| Russian | Русский | ru-RU.lang | ------------- |
+| Turkish | Türkçe | tr-TR.lang | ------------- |
+| Ukrainian | українська | uk-UA.lang | ------------- |
 
 
