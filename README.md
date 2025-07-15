@@ -27,14 +27,14 @@ Other languages in progress will be posted in this repo and the status published
 
 | Language Name (EN) | Language Name (Native) | Filename | Status (% done) |
 | ------------- | ------------- | ------------- | ------------- |
-| Danish | Dansk | da-DK.lang | ------------- |
-| Dutch  | Nederlands | nl-NL.lang | ------------- |
-| English GB | English GB | en-GB.lang | ------------- |
-| Italian | Italien | it-IT.lang | ------------- |
-| Polish | Polski | po-PO.lang | ------------- |
-| Portuguese | Português | pt-PT.lang | ------------- |
-| Russian | Русский | ru-RU.lang | ------------- |
-| Turkish | Türkçe | tr-TR.lang | ------------- |
-| Ukrainian | українська | uk-UA.lang | ------------- |
+| Danish | Dansk | da-DK.lang | 2.0 |
+| Dutch  | Nederlands | nl-NL.lang | 11.0 |
+| English GB | English GB | en-GB.lang | 83.0 |
+| Italian | Italien | it-IT.lang | 12.0 |
+| Polish | Polski | po-PO.lang | 14.0 |
+| Portuguese | Português | pt-PT.lang | 1.6 |
+| Russian | Русский | ru-RU.lang | 5.0 |
+| Turkish | Türkçe | tr-TR.lang | 1.6 |
+| Ukrainian | українська | uk-UA.lang | 1.6 |
 
 
