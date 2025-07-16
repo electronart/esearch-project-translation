@@ -11,9 +11,9 @@ The Help file includes instructions for translation.
 
 ## Staying up-to-date
 
-They happen when you're translating an outdated version of the template.lang file, part of which might have been translated by someone else. 
+Merge conflicts can happen if you're translating an outdated version of the template.lang file, part of which might have been translated by someone else. 
 
-To prevent this, download the latest release of eSearch Pro right before you translate
+To prevent this, download and install the latest release of eSearch Pro right before you translate. The template.lang file can be found under C:\Users\User\AppData\Roaming\eSearch\i18n\
 
 Download from here: https://dtsearch.co.uk/news/product/esearch-pro/
 
@@ -24,6 +24,9 @@ Alternatively fork the esearch project itself: https://github.com/electronart/es
 Currently eSearch project ships with partially translated (approx 80%)  Frencn (fr-FR.lang) and German (de-DE.lang) files only.
 
 Other languages in progress will be posted in this repo and the status published below.
+
+Send a pull-request if you want to add another language.
+
 
 | Language Name (EN) | Language Name (Native) | Filename | Status (% done) |
 | ------------- | ------------- | ------------- | ------------- |
