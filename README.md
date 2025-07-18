@@ -33,10 +33,11 @@ Send a pull-request if you want to add another language.
 | Danish | Dansk | da-DK.lang | 2.0 |
 | Dutch  | Nederlands | nl-NL.lang | 11.0 |
 | English GB | English GB | en-GB.lang | 83.0 |
-| Italian | Italien | it-IT.lang | 12.0 |
-| Polish | Polski | po-PO.lang | 14.0 |
-| Portuguese | Português | pt-PT.lang | 1.6 |
-| Russian | Русский | ru-RU.lang | 5.0 |
+| Italian | italiano | it-IT.lang | 12.0 |
+| Polish | polski | po-PO.lang | 14.0 |
+| Portuguese | português | pt-PT.lang | 1.6 |
+| Spanish | español | es-ES.lang | 10.0 |
+| Russian | русский | ru-RU.lang | 5.0 |
 | Turkish | Türkçe | tr-TR.lang | 1.6 |
 | Ukrainian | українська | uk-UA.lang | 1.6 |
 
