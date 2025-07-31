@@ -8,6 +8,16 @@ Download from here: https://dtsearch.co.uk/news/product/language-file-editor/
 
 The Help file includes instructions for translation. 
 
+Update 30 July 2025: There are known issues with the Language File Editor.
+1) The text displayed on the left  (original English word(s)) are not copyable.
+2) The text displayed on the left  (original English word(s)) - on a few rows - the text is longer than the label width.
+
+If you are creating a new language translation file, a workaround for the issues above is to initially open the (renamed)
+en-GB.lang file from the File menu instead of the template.lang file.
+You will then be able to copy the text from the right hand column to paste the English text into a translation app.
+Remove the brackets [] from around the text before translation. 
+Paste back the translated text into the right hand column, to replace the English text.
+
 
 ## Staying up-to-date
 
