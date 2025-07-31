@@ -19,7 +19,7 @@ Download from here: https://dtsearch.co.uk/news/product/esearch-pro/
 
 Alternatively fork the esearch project itself: https://github.com/electronart/esearch-project/tree/master/eSearch/i18n
 
-## Update 14 July 2025
+## Update 31 July 2025
 
 Currently eSearch project ships with partially translated (approx 80%)  Frencn (fr-FR.lang) and German (de-DE.lang) files only.
 
