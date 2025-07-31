@@ -1,0 +1,544 @@
+# Product:  eSearch
+# RFC 4646 Language Code. Used for Localisation of date strings Eg. en-GB, de-DE etc.
+RFC4646
+en-GB
+# --- Common ---
+File not found
+File not found
+Something went wrong
+Something went wrong
+OK
+OK
+Cancel
+Cancel
+Name
+Name
+Append Date
+Append Date
+Title
+Title
+Size
+Size
+Score
+Score
+Close
+Close
+Created
+Created
+Modified
+Modified
+Indexed
+Indexed
+Path
+Path
+Settings...
+Settings...
+Columns
+Columns
+Words
+Words
+Rows
+Rows
+Filters
+Filters
+All
+All
+Selected
+Selected
+Include
+Include
+Paragraphs
+Paragraphs
+Synonyms
+Synonyms
+New...
+New...
+eSearch
+eSearch
+Delete
+Delete
+Update Index
+Update Index
+Update...
+Update...
+Rename...
+Rename...
+Delete...
+Delete...
+# --- AboutWindow.axaml ---
+Serial...
+Serial...
+Online Help
+Online Help...
+Licenses and acknowledgements
+Licenses and Notes
+# --- AboutWindowViewModel.cs ---
+Evaluation ({0} days remaining)
+Evaluation ({0} days remaining)
+Expires {0}
+Expires {0}
+Expired {0}
+Expired {0}
+Serial: None
+Serial: None
+# --- ColorPickerWindow.axaml ---
+# --- CopyDocumentWindow.axaml ---
+Copy Document
+Copy Document
+Copied text:
+Copied text:
+Append Note:
+Append Note:
+Append File name:
+Append File name:
+Copy
+Copy
+Copy to:
+Copy to:
+Clipboard
+Clipboard
+File:
+File:
+# --- DataColumn.cs ---
+Accessed
+Accessed
+Parser
+Parser
+# --- DocumentType.cs ---
+Documents
+Documents
+Presentations
+Presentations
+Publications
+Publications
+Text
+Text
+Emails
+Emails
+Spreadsheets
+Spreadsheets
+Audio
+Audio
+Images
+Images
+Videos
+Videos
+Data
+Data
+Archives
+Archives
+Source Code
+Source Code
+# --- ExportSearchResultsViewModel.cs ---
+Select output file type
+Select output file type
+XML (.xml)
+XML (.xml)
+Comma Separated Values (.csv)
+Comma Separated Values (·csv)
+Tab Separated (.txt)
+Tab Separated (.txt)
+Results
+Results
+# --- ExportSearchResultsWindow.axaml ---
+Export Search Results
+Export Search Results
+Save
+Save
+All rows
+All rows
+Output as
+Output as
+Type
+Type
+All columns
+All columns
+Output Directory
+Output Directory
+# --- ExportSearchResultsWindow.axaml.cs ---
+Select at least one Column to export
+Select at least one Column to export
+Select output format
+Select output format
+No results are checked
+No results are checked
+Select an output directory.
+Select an output directory.
+Output Directory not found
+Output Directory not found
+Must enter a file name
+Must enter a file name
+File name contains illegal characters
+File name contains illegal characters
+# --- HtmlDocumentControl.axaml.cs ---
+Search Report
+Search Report
+Document Information
+Document Information
+Hits in Context
+Hits in Context
+# --- IndexProgressWindow.axaml ---
+View log
+View log
+# --- IndexProgressWindow.axaml.cs ---
+Paused
+Paused
+Cancel Indexing?
+Cancel Indexing?
+Index will only contain partial results.
+Index will only contain partial results.
+Cancelling
+Cancelling
+# --- IndexSettingsWindow.axaml ---
+Index Settings
+Index Settings
+Stop words
+Stop words
+Maximum word length
+Maximum word length
+Maximum file size (mb)
+Maximum file size (Mb)
+Case sensitive
+Case sensitive
+# --- IndexTask.cs ---
+Opening Index
+Opening Index
+Indexing {0}
+Indexing {0}
+Cleaning up...
+Cleaning up...
+Finished
+Finished
+{0} Document(s) Indexed
+{0} Document(s) Indexed 
+Error(s) during indexing. Check log for details.
+Error(s) during indexing. Check log for details
+# --- ListContentsWindow.axaml ---
+List Contents
+List Contents
+Words Found
+Words Found
+Words in index
+Words in index
+Save as...
+Save as...
+Word count
+Word count
+File count
+File count
+Field count
+Field count
+# --- MainWindow.axaml ---
+_File
+_File
+View...
+View...
+Export Search Results...
+Export Search Results...
+Search Report...
+Search Report...
+Print...
+Print...
+_Exit
+_Exit
+_Search
+_Search
+History...
+History...
+Report...
+Report...
+_Index
+_Index
+_View
+_View
+Theme
+Theme
+Dark
+Dark
+Light
+Light
+System
+System
+Layout
+Layout
+Horizontal
+Horizontal
+Vertical
+Vertical
+Language
+Language
+English
+English
+Pseudo Locale
+Pseudo Locale
+From File...
+From File...
+Word List
+Word List
+Help
+Help
+About
+About
+List...
+List...
+Register...
+Register...
+Results Settings...
+Results Settings...
+Copy Results...
+Copy Results...
+Title
+Title
+Score
+Score
+Viewer Settings...
+Viewer Settings...
+Copy Document...
+Copy Document...
+Document Metadata
+Document Metadata
+View in folder
+View in folder
+Previous Hit
+Previous Hit
+Next Hit
+Next Hit
+Key
+Key
+Value
+Value
+# --- MainWindow.axaml.cs ---
+Something went wrong
+Something went wrong
+There is no metadata to display.
+There is no metadata to display.
+# --- MainWindowViewModel.cs ---
+Rebuild index now?
+Rebuild index now?
+A rebuild is required for the new settings to take effect.
+A rebuild is required for the new settings to take effect
+Filename:
+Filename:
+Note:
+Note:
+Show location
+Show location
+Location not available
+Location not available
+File \"%s\" not found
+File \"%s\" not found
+# --- NewIndexWindow.axaml ---
+Index Name
+Index Name
+Index Contents
+Index Contents
+Include All
+Include All
+# --- NewIndexWindow.axaml.cs ---
+Index name required.
+Index name required.
+Select data to be indexed.
+Select data to be indexed.
+Select at least one content type to index.
+Select at least one content type to index.
+# --- NewIndexWindowViewModel.cs ---
+Create Index
+Create Index
+# --- ProgressCalculator.cs ---
+Calculating...
+Calculating...
+{0} day(s) remaining
+{0} day(s) remaining
+{0} hour(s) remaining
+{0} hour(s) remaining
+{0} minute(s) remaining
+{0} minute(s) remaining
+{0} second(s) remaining
+{0} second(s) remaining
+# --- RegistrationWindow.axaml ---
+Serial
+Serial
+Order Online
+Order Online
+Enter your Serial Number
+Enter your Serial Number
+Invalid Serial Number
+Invalid Serial Number
+# --- ResultsSettingsWindow.axaml ---
+Results Settings
+Results Settings
+Column Width
+Column Width
+Fit to content
+Fit to content
+Fit to window
+Fit to window
+Set Manually
+Set Manually
+Key Words in Context
+Key Words in Context
+Show
+Show
+Colour...
+Colour...
+Limit Results
+Limit Results
+# --- ResultsSettingsWindow.axaml.cs ---
+Select at least one column
+Select at least one column
+# --- SearchControl.axaml ---
+AND
+AND
+OR
+OR
+NOT
+NOT
+Stemming
+Stemming
+Any
+Any
+Boolean
+Boolean
+# --- SearchFilterWindow.axaml ---
+# --- SearchFilterWindow2.axaml ---
+# --- SearchResultsReportWindow.axaml ---
+Search Results Report
+Search Results Report
+Rows
+Rows
+File list only
+File list only
+Full text
+Full text
+Hits in context
+Hits in context
+Words
+Words
+Output template
+Output template
+Run report...
+Run report...
+Run
+Run
+Open when done
+Open when done
+# --- SearchSettingsViewModel.cs ---
+None
+None
+Soundex
+Soundex
+Double Metaphone
+Double Metaphone
+# --- SearchSettingsWindow.axaml ---
+Search Settings
+Search Settings
+Use List
+Use List
+Stemming Language
+Stemming Language
+English Porter
+English Porter
+List Index Contents on Empty Query
+List Index Contents on Empty Query
+Phonetic Analysis
+Phonetic Analysis
+English WordNet
+English WordNet
+Synonym files:
+Synonym files:
+Synonym Groups
+Synonym Groups
+Sort
+Sort
+Expansion
+Expansion
+Edit...
+Edit...
+# --- SearchSettingsWindow.axaml.cs ---
+%GROUP% will be deleted.
+%GROUP% will be deleted.
+Delete Synonyms Group?
+Delete Synonyms Group?
+Rename Synonyms Group
+Rename Synonyms Group
+Synonym Group Name
+Synonym Group Name
+New Synonyms Group
+New Synonyms Group
+Name
+Name
+Check at least one Synonym file from the drop down.
+Check at least one Synonym file from the drop down.
+No list file supplied
+No list file supplied
+File does not exist
+File does not exist
+# --- TaskDialogWindow.axaml.cs ---
+Something went wrong. Retry?
+Something went wrong. Retry?
+Retry
+Retry
+# --- TikaServer.cs ---
+# --- UpdateIndexWindow.axaml ---
+Indexes
+Indexes
+Automatic...
+Automatic...
+Rebuild
+Rebuild
+Verify
+Verify
+# --- UpdateIndexWindowViewModel.cs ---
+No Index Selected.
+No Index Selected.
+{0} Document(s)
+{0} Document(s)
+Delete {0}?
+Delete {0}?
+Delete this index.
+Delete this index.
+Rename Index
+Rename Index
+# --- Utils.cs ---
+RFC4646
+en-GB
+# --- ViewerSettingsWindow.axaml ---
+Viewer Settings
+Viewer Settings
+OK
+OK
+Cancel
+Cancel
+View Large Files
+View Large Files
+Mb
+Mb
+Fully
+Fully
+First page only
+First page only
+In Report View
+In Report View
+Amount of context
+Amount of context
+PDF
+PDF
+Viewer
+Viewer
+Adobe Acrobat
+Adobe Acrobat
+Plain Text
+Plain Text
+View File Types
+View File Types
+New...
+New...
+Rename...
+Rename...
+Hit Highlight
+Hit Highlight
+Unformatted Text
+Unformatted Text
+No word wrap
+No word wrap
+# --- ViewerSettingsWindowViewModel.cs ---
