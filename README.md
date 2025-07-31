@@ -32,7 +32,7 @@ Send a pull-request if you want to add another language.
 | ------------- | ------------- | ------------- | ------------- |
 | Danish | Dansk | da-DK.lang | 2.0 |
 | Dutch  | Nederlands | nl-NL.lang | 11.0 |
-| English GB | English GB | en-GB.lang | 83.0 |
+| English GB | English GB | en-GB.lang | 100.0 |
 | Italian | italiano | it-IT.lang | 12.0 |
 | Polish | polski | po-PO.lang | 14.0 |
 | Portuguese | português | pt-PT.lang | 1.6 |
