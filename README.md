@@ -8,8 +8,15 @@ Download from here: https://dtsearch.co.uk/news/product/language-file-editor/
 
 The Help file includes instructions for translation. 
 
+Update 4 August 2025: New version of Language File Editor released.
+1) The text displayed on the left  (original English word(s)) is now copied to the clipboard when the 'next' button is pressed. 
+2) User can also 'click' on the original English word(s) label to copy to clipboard, but note - the label doesnt show that it is selected.
+
+You will then be able to paste the English text into a translation app. Remove the brackets [] from around the text before translation. 
+Paste back the translated text into the right hand column, to replace the English text. 
+
 Update 30 July 2025: There are known issues with the Language File Editor.
-1) The text displayed on the left  (original English word(s)) are not copyable.
+1) The text displayed on the left  (original English word(s)) are not copyable. 
 2) The text displayed on the left  (original English word(s)) - on a few rows - the text is longer than the label width.
 
 If you are creating a new language translation file, a workaround for the issues above is to initially open the (renamed)
