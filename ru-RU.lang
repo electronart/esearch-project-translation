@@ -1,473 +1,544 @@
 # Product:  eSearch
 # RFC 4646 Language Code. Used for Localisation of date strings Eg. en-GB, de-DE etc.
 RFC4646
-ru-RU
+ru.RU
 # --- Common ---
-Title
-[Ţîîţļéé]
-Score
-[Šçööŕéé]
-Created
-[Çŕééååţééð]
-Modified
-[Ṁööðîîƒîîééð]
-Indexed
-[ÎÎñðééẋééð]
-Path
-Путь
 File not found
-[Ƒîîļéé ñööţ ƒööûûñð]
+Файл не найден 
 Something went wrong
-[Šööɱééţĥîîñĝ ŵééñţ ŵŕööñĝ]
+Что-то пошло не так 
 OK
 OK
 Cancel
-Отмена
-Append Date
-[ÅÅþþééñð Ðååţéé]
-Words
-[Ŵööŕðš]
-Filters
-[Ƒîîļţééŕš]
-Rows
-[Ŕööŵš]
-All
-[ÅÅļļ]
-Selected
-[Šééļééçţééð]
-Include
-[ÎÎñçļûûðéé]
-Synonyms
-[Šýýñööñýýɱš]
-New...
-[Ñééŵ···]
+Отмена 
 Name
-[Ñååɱéé]
+Имя
+Append Date
+Добавить дату 
+Title
+Заголовок 
+Size
+Размер 
+Score
+Оценка 
+Close
+Закрыть 
+Created
+Создан
+Modified
+Изменен
+Indexed
+Индексирован
+Path
+Путь 
+Settings...
+Параметры...
+Columns
+Столбцы 
+Words
+Слова 
+Rows
+Строки 
+Filters
+Фильтры 
+All
+Все
+Selected
+Выбранные 
+Include
+Включить 
+Paragraphs
+Абзацы 
+Synonyms
+Синонимы 
+New...
+Создать...
 eSearch
-eSearch
+eSearch 
 Delete
-Удалить
+Удалить 
 Update Index
-[ÛÛþðååţéé ÎÎñðééẋ]
+Обновить индекс 
 Update...
-[ÛÛþðååţéé···]
+Обновить...
 Rename...
-[Ŕééñååɱéé···]
+Переименовать...
 Delete...
 Удалить...
 # --- AboutWindow.axaml ---
 Serial...
-[Šééŕîîååļ···]
+Серийный номер...
 Online Help
-[ÖÖñļîîñéé Ĥééļþ]
-Licenses and acknowledgments
-[Ļîîçééñšééš ååñð ååçķñööŵļééðĝɱééñţš]
+Справка в Интернете 
+Licenses and acknowledgements
+Лицензии и благодарности 
 # --- AboutWindowViewModel.cs ---
 Evaluation ({0} days remaining)
-[ÉÉṽååļûûååţîîööñ ({0} ðååýýš ŕééɱååîîñîîñĝ)]
+Пробная версия: осталось дней {0})
 Expires {0}
-[ÉÉẋþîîŕééš {0}]
+Истекает {0}
 Expired {0}
-[ÉÉẋþîîŕééð {0}]
+Истек {0}
 Serial: None
-[Šééŕîîååļ∶ Ñööñéé]
+Серийный номер: Отсутствует 
 # --- ColorPickerWindow.axaml ---
 # --- CopyDocumentWindow.axaml ---
 Copy Document
-[Çööþýý Ðööçûûɱééñţ]
+Копировать документ 
 Copied text:
-[Çööþîîééð ţééẋţ∶]
+Скопированный текст:
 Append Note:
-[ÅÅþþééñð Ñööţéé∶]
+Добавить примечание:
 Append File name:
-[ÅÅþþééñð Ƒîîļéé ñååɱéé∶]
+Добавить имя файла:
 Copy
-[Çööþýý]
+Копировать 
 Copy to:
-[Çööþýý ţöö∶]
+Копировать в:
 Clipboard
-Буфер обмена
+Буфер обмена 
 File:
-[Ƒîîļéé∶]
+Файл:
 # --- DataColumn.cs ---
 Accessed
-[ÅÅççééššééð]
-File Size
-[Ƒîîļéé Šîîžéé]
+Последний доступ 
 Parser
-[Þååŕšééŕ]
+Парсер
+# --- DocumentType.cs ---
+Documents
+Документы 
+Presentations
+Презентации 
+Publications
+Публикации 
+Text
+Текст 
+Emails
+Электронная почта 
+Spreadsheets
+Электронные таблицы 
+Audio
+Аудио 
+Images
+Изображения 
+Videos
+Видио
+Data
+Данные 
+Archives
+Архивы 
+Source Code
+Исходный код
 # --- ExportSearchResultsViewModel.cs ---
 Select output file type
-[Šééļééçţ ööûûţþûûţ ƒîîļéé ţýýþéé]
+Выберите формат выходного файла 
 XML (.xml)
-[ẊṀĻ (·ẋɱļ)]
+XML (.xml)
 Comma Separated Values (.csv)
-[Çööɱɱåå Šééþååŕååţééð Ṽååļûûééš (·çšṽ)]
-Tab Separated (.csv)
-[Ţååƀ Šééþååŕååţééð (·çšṽ)]
+Значения, разделенные запятыми (.csv)
+Tab Separated (.txt)
+Разделенные табуляцией (.csv)
 Results
-[Ŕééšûûļţš]
+Результаты 
 # --- ExportSearchResultsWindow.axaml ---
 Export Search Results
-[ÉÉẋþööŕţ Šééååŕçĥ Ŕééšûûļţš]
-Save...
-[Šååṽéé···]
+Экспорт результатов поиска 
+Save
+Сохранить
 All rows
-[ÅÅļļ ŕööŵš]
+Все строки 
 Output as
-[ÖÖûûţþûûţ ååš]
+Вывести как 
 Type
-[Ţýýþéé]
-Columns
-[Çööļûûɱñš]
+Тип
 All columns
-[ÅÅļļ çööļûûɱñš]
+Все столбцы 
 Output Directory
-[ÖÖûûţþûûţ Ðîîŕééçţööŕýý]
+Папка для сохранения 
 # --- ExportSearchResultsWindow.axaml.cs ---
 Select at least one Column to export
-[Šééļééçţ ååţ ļééååšţ ööñéé Çööļûûɱñ ţöö ééẋþööŕţ]
+Выберите хотя бы один столбец для экспорта 
 Select output format
-[Šééļééçţ ööûûţþûûţ ƒööŕɱååţ]
+Выберите формат вывода 
 No results are checked
-[Ñöö ŕééšûûļţš ååŕéé çĥééçķééð]
+Не выбрано не одного результата 
 Select an output directory.
-[Šééļééçţ ååñ ööûûţþûûţ ðîîŕééçţööŕýý·]
+Выберите папку для сохранения 
 Output Directory not found
-[ÖÖûûţþûûţ Ðîîŕééçţööŕýý ñööţ ƒööûûñð]
+Папка для сохранения не найдена 
 Must enter a file name
-[Ṁûûšţ ééñţééŕ åå ƒîîļéé ñååɱéé]
+Необходимо указать имя файла 
 File name contains illegal characters
-[Ƒîîļéé ñååɱéé çööñţååîîñš îîļļééĝååļ çĥååŕååçţééŕš]
+Имя файла содержит недопустимые символы 
 # --- HtmlDocumentControl.axaml.cs ---
 Search Report
-[Šééååŕçĥ Ŕééþööŕţ]
+Поиск отчёт 
 Document Information
-[Ðööçûûɱééñţ ÎÎñƒööŕɱååţîîööñ]
-Size
-[Šîîžéé]
+Поиск отчёта 
 Hits in Context
-[Ĥîîţš îîñ Çööñţééẋţ]
+Совпадения в контексте 
+# --- IndexProgressWindow.axaml ---
+View log
+Просмотр журнала 
+# --- IndexProgressWindow.axaml.cs ---
+Paused
+Приостановлено 
+Cancel Indexing?
+Отменить индексирования 
+Index will only contain partial results.
+В индексе будут только частичные результаты 
+Cancelling
+Отмена
+# --- IndexSettingsWindow.axaml ---
+Index Settings
+Параметры индекса 
+Stop words
+Стоп-слова
+Maximum word length
+Максимальная длина слов
+Maximum file size (mb)
+Максимальный размер файла (МБ)
+Case sensitive
+Учитывать регистр 
 # --- IndexTask.cs ---
 Opening Index
-[ÖÖþééñîîñĝ ÎÎñðééẋ]
+Открытие индейка 
 Indexing {0}
-[ÎÎñðééẋîîñĝ {0}]
-Discovering...
-[Ðîîšçööṽééŕîîñĝ···]
+Индексирование {0}
+Cleaning up...
+Очистка...
 Finished
-[Ƒîîñîîšĥééð]
+Завершено
+{0} Document(s) Indexed
+Проиндексировано документов: {0}
+Error(s) during indexing. Check log for details.
+Ошибка (и) во время индексирования. Подробности см. в журнале 
 # --- ListContentsWindow.axaml ---
 List Contents
-[Ļîîšţ Çööñţééñţš]
+Содержимое списка 
 Words Found
-[Ŵööŕðš Ƒööûûñð]
+Найдено слов
 Words in index
-[Ŵööŕðš îîñ îîñðééẋ]
+Слов в индексе 
 Save as...
-[Šååṽéé ååš···]
+Сохранить как...
 Word count
-[Ŵööŕð çööûûñţ]
+Количество слов
 File count
-[Ƒîîļéé çööûûñţ]
+Количество файлов
 Field count
-[Ƒîîééļð çööûûñţ]
+Количество полей 
 # --- MainWindow.axaml ---
-File
+_File
 Файл
 View...
-[Ṽîîééŵ···]
+Вид...
 Export Search Results...
-[ÉÉẋþööŕţ Šééååŕçĥ Ŕééšûûļţš···]
+Экспорт результатов поиска
 Search Report...
-[Šééååŕçĥ Ŕééþööŕţ···]
+Отчёт поиска 
 Print...
-[Þŕîîñţ···]
+Печать...
 _Exit
-[‿ÉÉẋîîţ]
+В_ыход
 _Search
-[‿Šééååŕçĥ]
+_Поиск 
 History...
-[Ĥîîšţööŕýý···]
+Журнал...
 Report...
-[Ŕééþööŕţ···]
+Отчет...
 _Index
-[‿ÎÎñðééẋ]
+_Индекс 
 _View
-[‿Ṽîîééŵ]
-Appearance
-[ÅÅþþééååŕååñçéé]
+_Вид
+Theme
+Тема
 Dark
-[Ðååŕķ]
+Темныя
 Light
-[Ļîîĝĥţ]
+Светлая
 System
-[Šýýšţééɱ]
+Системная
 Layout
-[Ļååýýööûûţ]
+Макет
 Horizontal
-[Ĥööŕîîžööñţååļ]
+Горизонтальный 
 Vertical
-[Ṽééŕţîîçååļ]
+Вертикальный 
 Language
-[Ļååñĝûûååĝéé]
+Язык 
 English
-английский
+Английский 
 Pseudo Locale
-[Þšééûûðöö Ļööçååļéé]
+Псевдолокаль
 From File...
-[Ƒŕööɱ Ƒîîļéé···]
+Из файла...
 Word List
-[Ŵööŕð Ļîîšţ]
+Список слов
 Help
-[Ĥééļþ]
+Справка
 About
-[ÅÅƀööûûţ]
+О программе 
 List...
-[Ļîîšţ···]
+Список...
 Register...
-[Ŕééĝîîšţééŕ···]
+Регистрация...
 Results Settings...
-[Ŕééšûûļţš Šééţţîîñĝš···]
+Параментры результатов...
 Copy Results...
-[Çööþýý Ŕééšûûļţš···]
-Created
-[Çŕééååţééð]
-Modified
-[Ṁööðîîƒîîééð]
-Indexed
-[ÎÎñðééẋééð]
-Path
-Путь
+Копировать результаты...
+Title
+Заголовок 
+Score
+Оценка 
 Viewer Settings...
-[Ṽîîééŵééŕ Šééţţîîñĝš···]
+Параментры просмотра...
 Copy Document...
-[Çööþýý Ðööçûûɱééñţ···]
+Копировать документ...
 Document Metadata
-[Ðööçûûɱééñţ Ṁééţååðååţåå]
+Метаданные документа 
 View in folder
-[Ṽîîééŵ îîñ ƒööļðééŕ]
+Показать в папке 
 Previous Hit
-[Þŕééṽîîööûûš Ĥîîţ]
+Предыдущее совпадение 
 Next Hit
-[Ñééẋţ Ĥîîţ]
+Следующее совпадение 
 Key
-[Ķééýý]
+Ключ
 Value
-[Ṽååļûûéé]
+Значение 
 # --- MainWindow.axaml.cs ---
 Something went wrong
-[Šööɱééţĥîîñĝ ŵééñţ ŵŕööñĝ]
+Что-то пошло не так 
 There is no metadata to display.
-[Ţĥééŕéé îîš ñöö ɱééţååðååţåå ţöö ðîîšþļååýý·]
+Метаданные для отображения отсутствуют.
 # --- MainWindowViewModel.cs ---
+Rebuild index now?
+Перестроить индекс сейчас?
+A rebuild is required for the new settings to take effect.
+Для применения новых настроек необходимо перестроение
 Filename:
-[Ƒîîļééñååɱéé∶]
+Имя файла:
 Note:
-[Ñööţéé∶]
+Примечание:
+Show location
+Показать расположение 
+Location not available
+Расположение недоступно 
 File \"%s\" not found
-[Ƒîîļéé ∖″‰š∖″ ñööţ ƒööûûñð]
+Файл % \ не найден 
 # --- NewIndexWindow.axaml ---
 Index Name
-[ÎÎñðééẋ Ñååɱéé]
+Имя индекса
 Index Contents
-[ÎÎñðééẋ Çööñţééñţš]
+Содержимое индекса
 Include All
-[ÎÎñçļûûðéé ÅÅļļ]
+Включить все
+# --- NewIndexWindow.axaml.cs ---
+Index name required.
+Необходимо указать имя индекса.
+Select data to be indexed.
+Выберите данные для индексирования..
+Select at least one content type to index.
+Выберите хотя бы один тип содержимого для индексирования.
 # --- NewIndexWindowViewModel.cs ---
 Create Index
-[Çŕééååţéé ÎÎñðééẋ]
+Создать индекс 
 # --- ProgressCalculator.cs ---
 Calculating...
-[Çååļçûûļååţîîñĝ···]
+Вычисление...
 {0} day(s) remaining
-[{0} ðååýý(š) ŕééɱååîîñîîñĝ]
+Осталось дней: {0}
 {0} hour(s) remaining
-[{0} ĥööûûŕ(š) ŕééɱååîîñîîñĝ]
+Осталось часов: {0}
 {0} minute(s) remaining
-[{0} ɱîîñûûţéé(š) ŕééɱååîîñîîñĝ]
+Осталось минут: {0}
 {0} second(s) remaining
-[{0} šééçööñð(š) ŕééɱååîîñîîñĝ]
+Осталось секунд: {0}
 # --- RegistrationWindow.axaml ---
 Serial
-[Šééŕîîååļ]
+Серийный номер 
 Order Online
-[ÖÖŕðééŕ ÖÖñļîîñéé]
+Заказать онлайн 
 Enter your Serial Number
-[ÉÉñţééŕ ýýööûûŕ Šééŕîîååļ Ñûûɱƀééŕ]
+Введите серийный номер 
 Invalid Serial Number
-[ÎÎñṽååļîîð Šééŕîîååļ Ñûûɱƀééŕ]
+Недопустимый серийный номер 
 # --- ResultsSettingsWindow.axaml ---
 Results Settings
-[Ŕééšûûļţš Šééţţîîñĝš]
-Show Columns
-[Šĥööŵ Çööļûûɱñš]
+Параментры результатов 
 Column Width
-[Çööļûûɱñ Ŵîîðţĥ]
+Ширина столбца 
 Fit to content
-[Ƒîîţ ţöö çööñţééñţ]
+По содержимому 
 Fit to window
-[Ƒîîţ ţöö ŵîîñðööŵ]
+По размеру окна 
 Set Manually
-[Šééţ Ṁååñûûååļļýý]
+Задать вручную 
 Key Words in Context
-[Ķééýý Ŵööŕðš îîñ Çööñţééẋţ]
+Ключевые слова в контексте 
 Show
-[Šĥööŵ]
+Показать 
 Colour...
-[Çööļööûûŕ···]
-Number of Results
-[Ñûûɱƀééŕ ööƒ Ŕééšûûļţš]
+Цвет...
 Limit Results
-[Ļîîɱîîţ Ŕééšûûļţš]
+Ограничить результаты 
+# --- ResultsSettingsWindow.axaml.cs ---
+Select at least one column
+Выберите хотя бы один столбец 
 # --- SearchControl.axaml ---
 AND
-[ÅÅÑÐ]
+И
 OR
-[ÖÖŔ]
+ИЛИ 
 NOT
-[ÑÖÖŢ]
+НЕ
 Stemming
-[Šţééɱɱîîñĝ]
+Словоформы
 Any
-[ÅÅñýý]
+Любое 
 Boolean
-[Ɓööööļééååñ]
+Булев
 # --- SearchFilterWindow.axaml ---
 # --- SearchFilterWindow2.axaml ---
 # --- SearchResultsReportWindow.axaml ---
 Search Results Report
-[Šééååŕçĥ Ŕééšûûļţš Ŕééþööŕţ]
+Отчет результатов поиска 
+Rows
+Ряды
 File list only
-[Ƒîîļéé ļîîšţ ööñļýý]
+Только список файлов 
 Full text
-[Ƒûûļļ ţééẋţ]
+Полный текст 
 Hits in context
-[Ĥîîţš îîñ çööñţééẋţ]
+Совпадения в контексте 
 Words
-[Ŵööŕðš]
-Paragraphs
-[Þååŕååĝŕååþĥš]
+Слова 
 Output template
-[ÖÖûûţþûûţ ţééɱþļååţéé]
+Шаблон вывода 
 Run report...
-[Ŕûûñ ŕééþööŕţ···]
+Создать отчет...
 Run
-[Ŕûûñ]
+Выполнить 
 Open when done
-[ÖÖþééñ ŵĥééñ ðööñéé]
+Открыть по завершении 
 # --- SearchSettingsViewModel.cs ---
 None
-[Ñööñéé]
+Нет
 Soundex
-[Šööûûñðééẋ]
+Soundex 
 Double Metaphone
-[Ðööûûƀļéé Ṁééţååþĥööñéé]
+Double Metaphone
 # --- SearchSettingsWindow.axaml ---
 Search Settings
-[Šééååŕçĥ Šééţţîîñĝš]
+Параметры поиска 
 Use List
-[ÛÛšéé Ļîîšţ]
+Использовать список 
 Stemming Language
-[Šţééɱɱîîñĝ Ļååñĝûûååĝéé]
+Языки словоформ
 English Porter
-[ÉÉñĝļîîšĥ Þööŕţééŕ]
+Английский парсер
+List Index Contents on Empty Query
+Показывать содержимое индекса при пустом запросе 
 Phonetic Analysis
-[Þĥööñééţîîç ÅÅñååļýýšîîš]
+Фонетический анализ 
 English WordNet
-[ÉÉñĝļîîšĥ ŴööŕðÑééţ]
+WordNet
 Synonym files:
-[Šýýñööñýýɱ ƒîîļééš∶]
+Файлы синонимов:
 Synonym Groups
-[Šýýñööñýýɱ Ĝŕööûûþš]
+Группа синонимов 
 Sort
-[Šööŕţ]
+Сортировка 
 Expansion
-[ÉÉẋþååñšîîööñ]
+Расширение 
 Edit...
-[ÉÉðîîţ···]
+Изменить...
 # --- SearchSettingsWindow.axaml.cs ---
 %GROUP% will be deleted.
-[‰ĜŔÖÖÛÛÞ‰ ŵîîļļ ƀéé ðééļééţééð·]
+%GROUP% будет удалена
 Delete Synonyms Group?
-[Ðééļééţéé Šýýñööñýýɱš Ĝŕööûûþ¿]
+Удалить группу синонимов
 Rename Synonyms Group
-[Ŕééñååɱéé Šýýñööñýýɱš Ĝŕööûûþ]
+Переименовать группу синонимов 
 Synonym Group Name
-[Šýýñööñýýɱ Ĝŕööûûþ Ñååɱéé]
+Название группы синонимов 
 New Synonyms Group
-[Ñééŵ Šýýñööñýýɱš Ĝŕööûûþ]
+Новая группа синонимов 
 Name
-[Ñååɱéé]
+Имя
 Check at least one Synonym file from the drop down.
-[Çĥééçķ ååţ ļééååšţ ööñéé Šýýñööñýýɱ ƒîîļéé ƒŕööɱ ţĥéé ðŕööþ ðööŵñ·]
+Отметьте хотя бы один файл синонимов из
 No list file supplied
-[Ñöö ļîîšţ ƒîîļéé šûûþþļîîééð]
+Файл списка не указан 
 File does not exist
-[Ƒîîļéé ðööééš ñööţ ééẋîîšţ]
+Файл не существует 
 # --- TaskDialogWindow.axaml.cs ---
 Something went wrong. Retry?
-[Šööɱééţĥîîñĝ ŵééñţ ŵŕööñĝ· Ŕééţŕýý¿]
+Что-то пошло не так. Повторить попытку?
 Retry
-[Ŕééţŕýý]
+Повторить попытку 
 # --- TikaServer.cs ---
-Close
-[Çļööšéé]
 # --- UpdateIndexWindow.axaml ---
 Indexes
-[ÎÎñðééẋééš]
+Индексы 
 Automatic...
-[ÅÅûûţööɱååţîîç···]
+Автоматически...
 Rebuild
-[Ŕééƀûûîîļð]
+Перестроить 
 Verify
-[Ṽééŕîîƒýý]
+Проверить 
 # --- UpdateIndexWindowViewModel.cs ---
 No Index Selected.
-[Ñöö ÎÎñðééẋ Šééļééçţééð·]
+Индекс не выбран
+{0} Document(s)
+Документов: {0}
 Delete {0}?
-[Ðééļééţéé {0}¿]
+Удалить {0}?
 Delete this index.
-[Ðééļééţéé ţĥîîš îîñðééẋ·]
+Удалить этот индекс.
 Rename Index
-[Ŕééñååɱéé ÎÎñðééẋ]
+Переименовать индекс 
+# --- Utils.cs ---
+RFC4646
+ru-RU
 # --- ViewerSettingsWindow.axaml ---
 Viewer Settings
-[Ṽîîééŵééŕ Šééţţîîñĝš]
+Параментры просмотра 
 OK
-OK
+Подтвердить 
 Cancel
-Отмена
+Отменить 
 View Large Files
-[Ṽîîééŵ Ļååŕĝéé Ƒîîļééš]
+Просматривать больше файлы 
 Mb
-[Ṁƀ]
+МБ
 Fully
-[Ƒûûļļýý]
+Полностью 
 First page only
-[Ƒîîŕšţ þååĝéé ööñļýý]
+Только первая страница 
 In Report View
-[ÎÎñ Ŕééþööŕţ Ṽîîééŵ]
+В режиме отчета
 Amount of context
-[ÅÅɱööûûñţ ööƒ çööñţééẋţ]
+Объем контекста 
 PDF
-[ÞÐƑ]
+PDF
 Viewer
-[Ṽîîééŵééŕ]
+Просмотрщик
 Adobe Acrobat
-[ÅÅðööƀéé ÅÅçŕööƀååţ]
+Adobe Acrobat 
 Plain Text
-[Þļååîîñ Ţééẋţ]
+Обычный текст 
 View File Types
-[Ṽîîééŵ Ƒîîļéé Ţýýþééš]
+Типы файлов для просмотра 
 New...
-[Ñééŵ···]
+Новый 
 Rename...
-[Ŕééñååɱéé···]
+Переименовать 
 Hit Highlight
-[Ĥîîţ Ĥîîĝĥļîîĝĥţ]
+Выделение совпадений 
 Unformatted Text
-[ÛÛñƒööŕɱååţţééð Ţééẋţ]
+Неформатированный текст 
 No word wrap
-[Ñöö ŵööŕð ŵŕååþ]
+Без переноса слов 
 # --- ViewerSettingsWindowViewModel.cs ---
