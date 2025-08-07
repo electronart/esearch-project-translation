@@ -36,13 +36,15 @@ Download from here: https://dtsearch.co.uk/news/product/esearch-pro/
 
 Alternatively fork the esearch project itself: https://github.com/electronart/esearch-project/tree/master/eSearch/i18n
 
-## Update 31 July 2025
+## Update 07 Aug 2025
 
 Currently eSearch project ships with partially translated (approx 80%)  Frencn (fr-FR.lang) and German (de-DE.lang) files only.
 
 Other languages in progress will be posted in this repo and the status published below.
 
 Send a pull-request if you want to add another language.
+
+All are provided AS-IS. They may have been translated using AI Tools without assistance of a professional human translator.
 
 
 | Language Name (EN) | Language Name (Native) | Filename | Status (% done) |
@@ -54,7 +56,7 @@ Send a pull-request if you want to add another language.
 | Polish | polski | po-PO.lang | 14.0 |
 | Portuguese | português | pt-PT.lang | 1.6 |
 | Spanish | español | es-ES.lang | 10.0 |
-| Russian | русский | ru-RU.lang | 5.0 |
+| Russian | русский | ru-RU.lang | 100.0 |
 | Turkish | Türkçe | tr-TR.lang | 1.6 |
 | Ukrainian | українська | uk-UA.lang | 1.6 |
 
