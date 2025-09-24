@@ -46,6 +46,9 @@ Send a pull-request if you want to add another language.
 
 All are provided AS-IS. They may have been translated using AI Tools without assistance of a professional human translator.
 
+Example of using Language File Editor (LFE) to create a new language from the template.lang file: 
+
+[https://dark-mode.medium.com/translate-offline-using-a-free-llm-on-your-laptop](https://dark-mode.medium.com/translate-offline-using-a-free-llm-on-your-laptop-c09ee7949967)
 
 | Language Name (EN) | Language Name (Native) | Filename | Status (Approx % done) |
 | ------------- | ------------- | ------------- | ------------- |
