@@ -53,14 +53,14 @@ All are provided AS-IS. They may have been translated using AI Tools without ass
 | Dutch  | Nederlands | nl-NL.lang | 9.0 |
 | English GB | English GB | en-GB.lang | 100.0 |
 | French | Français | fr-FR.lang | 56.00 |
-| German | Deutsche | de-DE.lang | 56.0 |
-| Italian | italiano | it-IT.lang | 10.0 |
+| German | Deutsch | de-DE.lang | 56.0 |
+| Italian | Italiano | it-IT.lang | 10.0 |
 | Korean(S) | 한국어 | ko-KR.lang | 98.0 |
-| Polish | polski | po-PO.lang | 11.0 |
-| Portuguese | português | pt-PT.lang | 1.0 |
-| Spanish | español | es-ES.lang | 7.0 |
-| Russian | русский | ru-RU.lang | 98.0 |
+| Polish | Polski | po-PO.lang | 11.0 |
+| Portuguese | Português | pt-PT.lang | 1.0 |
+| Spanish | Español | es-ES.lang | 7.0 |
+| Russian | Rусский | ru-RU.lang | 98.0 |
 | Turkish | Türkçe | tr-TR.lang | 1.0 |
-| Ukrainian | українська | uk-UA.lang | 1.0 |
+| Ukrainian | Yкраїнська | uk-UA.lang | 1.0 |
 
 
