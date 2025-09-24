@@ -49,18 +49,18 @@ All are provided AS-IS. They may have been translated using AI Tools without ass
 
 | Language Name (EN) | Language Name (Native) | Filename | Status (Approx % done) |
 | ------------- | ------------- | ------------- | ------------- |
-| Danish | Dansk | da-DK.lang | 2.0 |
-| Dutch  | Nederlands | nl-NL.lang | 11.0 |
+| Danish | Dansk | da-DK.lang | 1.0 |
+| Dutch  | Nederlands | nl-NL.lang | 9.0 |
 | English GB | English GB | en-GB.lang | 100.0 |
-| French | | fr-FR.lang | 0.00 |
-|German |  | de-DE.lang | 0.0 |
-| Italian | italiano | it-IT.lang | 12.0 |
-| Korean(S) | | ko-KR.lang | 100.0 |
-| Polish | polski | po-PO.lang | 14.0 |
-| Portuguese | português | pt-PT.lang | 1.6 |
-| Spanish | español | es-ES.lang | 10.0 |
-| Russian | русский | ru-RU.lang | 100.0 |
-| Turkish | Türkçe | tr-TR.lang | 1.6 |
-| Ukrainian | українська | uk-UA.lang | 1.6 |
+| French | Français | fr-FR.lang | 56.00 |
+| German | Deutsche | de-DE.lang | 56.0 |
+| Italian | italiano | it-IT.lang | 10.0 |
+| Korean(S) | 한국어 | ko-KR.lang | 98.0 |
+| Polish | polski | po-PO.lang | 11.0 |
+| Portuguese | português | pt-PT.lang | 1.0 |
+| Spanish | español | es-ES.lang | 7.0 |
+| Russian | русский | ru-RU.lang | 98.0 |
+| Turkish | Türkçe | tr-TR.lang | 1.0 |
+| Ukrainian | українська | uk-UA.lang | 1.0 |
 
 
