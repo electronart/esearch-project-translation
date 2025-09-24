@@ -38,9 +38,9 @@ Alternatively fork the esearch project itself: https://github.com/electronart/es
 
 ## Update 24 Sep 2025
 
-Currently eSearch project ships with partially translated (approx 80%)  Frencn (fr-FR.lang) and German (de-DE.lang) files only.
+Currently eSearch project ships with partially translated files only.
 
-Other languages in progress will be posted in this repo and the status published below.
+Languages in progress will be posted in this repo and the status published below.
 
 Send a pull-request if you want to add another language.
 
