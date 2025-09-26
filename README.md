@@ -62,7 +62,7 @@ Example of using Language File Editor (LFE) to create a new language from the te
 | Polish | Polski | po-PO.lang | 11.0 |
 | Portuguese | Português | pt-PT.lang | 1.0 |
 | Spanish | Español | es-ES.lang | 7.0 |
-| Russian | Rусский | ru-RU.lang | 98.0 |
+| Russian | Русский | ru-RU.lang | 98.0 |
 | Turkish | Türkçe | tr-TR.lang | 1.0 |
 | Ukrainian | Yкраїнська | uk-UA.lang | 1.0 |
 
