@@ -50,7 +50,7 @@ Example of using Language File Editor (LFE) to create a new language from the te
 
 [https://dark-mode.medium.com/translate-offline-using-a-free-llm-on-your-laptop](https://dark-mode.medium.com/translate-offline-using-a-free-llm-on-your-laptop-c09ee7949967)
 
-| Language Name (EN) | Language Name (Native) | Filename | Status (Approx % done) |
+| Language Name (EN) | Language Name (Native) | Filename | Status (Approx % done)|
 | ------------- | ------------- | ------------- | ------------- |
 | Danish | Dansk | da-DK.lang | 1.0 |
 | Dutch  | Nederlands | nl-NL.lang | 9.0 |
@@ -66,4 +66,5 @@ Example of using Language File Editor (LFE) to create a new language from the te
 | Turkish | Türkçe | tr-TR.lang | 1.0 |
 | Ukrainian | Yкраїнська | uk-UA.lang | 1.0 |
 
-
+Status shown in table is as-shipped with version 1.1.9400 (Sep 2025)
+UPDATE: 29th September 2025 a 100% translation of Ukrainian is now available, contact support@electronart.co.uk to obtain a zipped copy.
