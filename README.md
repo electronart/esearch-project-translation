@@ -67,4 +67,7 @@ Example of using Language File Editor (LFE) to create a new language from the te
 | Ukrainian | Yкраїнська | uk-UA.lang | 1.0 |
 
 Status shown in table is as-shipped with version 1.1.9400 (Sep 2025)
-UPDATE: 29th September 2025 a 100% translation of Ukrainian is now available, contact support@electronart.co.uk to obtain a zipped copy.
+
+## UPDATE: 
+
+29th September 2025 a 100% translation of Ukrainian is now available, contact support@electronart.co.uk to obtain a zipped copy.
