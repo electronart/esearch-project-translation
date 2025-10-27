@@ -64,7 +64,7 @@ Example of using Language File Editor (LFE) to create a new language from the te
 | Spanish | Español | es-ES.lang | 7.0 |
 | Russian | Русский | ru-RU.lang | 98.0 |
 | Turkish | Türkçe | tr-TR.lang | 1.0 |
-| Ukrainian | Yкраїнська | uk-UA.lang | 1.0 |
+| Ukrainian | Yкраїнська | uk-UA.lang | 98.0 |
 
 Status shown in table is as-shipped with version 1.1.9400 (Sep 2025)
 
