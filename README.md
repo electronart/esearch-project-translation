@@ -6,9 +6,11 @@ Use our FREE Language File Editor
 
 Download from here: https://dtsearch.co.uk/news/product/language-file-editor/
 
-The Help file includes instructions for translation. 
+The Help file includes instructions for translation.  
 
-Update 4 August 2025: New version of Language File Editor released.
+Update 25 October 2025: Language File Editor is now an open source project: [https://github.com/electronart/Language_File_Editor](https://github.com/electronart/Language_File_Editor) 
+
+Update 4 August 2025: New version of Language File Editor released. 
 1) The text displayed on the left  (original English word(s)) is now copied to the clipboard when the 'next' button is pressed. 
 2) User can also 'click' on the original English word(s) label to copy to clipboard, but note - the label doesnt show that it is selected.
 
